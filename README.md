@@ -11,3 +11,4 @@ Good Go/Baduk/Weiqi resources
 | https://www.lifein19x19.com/index.php    | forum                 | Reasonably active forum                                                        |        |
 | https://internetgoschool.com/index.vhtml | training; lesson      | Guo Juan's interactive go school                                               |        |
 | https://www.reddit.com/r/baduk           | reddit                | has a nice beginer link                                                        |        |
+| https://gotoeveryone.k2ss.info/ | Info | up to date game info | Yes |
