@@ -13,5 +13,7 @@ Good Go/Baduk/Weiqi resources
 | https://gotoeveryone.k2ss.info/            | Info                    | up to date game info                                                             | Yes      |
 | https://kifudepot.com/                     | Kifu                    | Japanese only                                                                    | Yes      |
 | https://igo-kifu.com/                      | Kifu (livestream)       | Japanese only; but has live stream of big games like Kisei                       | Yes      |
+| Mathematical Go                      | Go endgame theory       |  It's a book                       | NA      |
+| [Xin at world amatuer go championship](https://www.youtube.com/watch?v=F8MCjk9kC0M&t=22573s) | Xin | | NA |
 
 Link to table magic: https://stevecat.net/table-magic/#
