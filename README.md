@@ -16,5 +16,6 @@ Good Go/Baduk/Weiqi resources
 | Mathematical Go                      | Go endgame theory       |  It's a book                       | NA      |
 | [Xin at world amatuer go championship](https://www.youtube.com/watch?v=F8MCjk9kC0M&t=22573s) | Xin | | NA |
 | [Professor Graham Farr](https://research.monash.edu/en/persons/graham-farr) | Professor | Does lots of Go research | | 
+| [Harry Fearnley](http://harryfearnley.com/) | Seki research | Does research into interesting Go stuff including Seki | Yes |
 
 Link to table magic: https://stevecat.net/table-magic/#
