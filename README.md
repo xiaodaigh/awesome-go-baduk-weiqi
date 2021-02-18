@@ -13,9 +13,10 @@ Good Go/Baduk/Weiqi resources
 | https://gotoeveryone.k2ss.info/            | Info                    | up to date game info                                                             | Yes      |
 | https://kifudepot.com/                     | Kifu                    | Japanese only                                                                    | Yes      |
 | https://igo-kifu.com/                      | Kifu (livestream)       | Japanese only; but has live stream of big games like Kisei                       | Yes      |
-| Mathematical Go                      | Go endgame theory       |  It's a book                       | NA      |
+| [Mathematical Go](https://www.youtube.com/watch?list=PL329A9A14A4F7D8E7&v=rNvP6a8sTnI&feature=youtu.be)                      | Go endgame theory       |  It's a book                       | NA      |
 | [Xin at world amatuer go championship](https://www.youtube.com/watch?v=F8MCjk9kC0M&t=22573s) | Xin | | NA |
 | [Professor Graham Farr](https://research.monash.edu/en/persons/graham-farr) | Professor | Does lots of Go research | | 
 | [Harry Fearnley](http://harryfearnley.com/) | Seki research | Does research into interesting Go stuff including Seki | Yes |
+
 
 Link to table magic: https://stevecat.net/table-magic/#
