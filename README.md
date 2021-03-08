@@ -18,6 +18,6 @@ Good Go/Baduk/Weiqi resources
 | [Professor Graham Farr](https://research.monash.edu/en/persons/graham-farr)                             | Professor                             | Does lots of Go research                                                         |          |
 | [Harry Fearnley](http://harryfearnley.com/)                                                             | Seki research                         | Does research into interesting Go stuff including Seki                           | Yes      |
 | [bingo weiqi](http://bingoweiqi.com/pwdo/current_titles.php)                                            | Chinese database of players and games |                                                                                  |          |
-
+| https://sahwal.com/ranking/contest/1# | Hard tsumego |
 
 Link to table magic: https://stevecat.net/table-magic/#
