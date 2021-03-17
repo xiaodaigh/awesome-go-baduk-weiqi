@@ -19,5 +19,6 @@ Good Go/Baduk/Weiqi resources
 | [Harry Fearnley](http://harryfearnley.com/)                                                             | Seki research                         | Does research into interesting Go stuff including Seki                           | Yes      |
 | [bingo weiqi](http://bingoweiqi.com/pwdo/current_titles.php)                                            | Chinese database of players and games |                                                                                  |          |
 | https://sahwal.com/ranking/contest/1# | Hard tsumego |
+| [resigning in sente](https://resigning-in-sente.github.io/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/) | Nice Blog structure | |
 
 Link to table magic: https://stevecat.net/table-magic/#
