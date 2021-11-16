@@ -22,7 +22,7 @@ Good Go/Baduk/Weiqi resources
 | https://sahwal.com/ranking/contest/1#                                                                           | Hard tsumego                          |                                                                                |        |
 | [resigning in sente](https://resigning-in-sente.github.io/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/) | Nice Blog structure                   |                                                                                |        |
 | [AI ratings](https://github.com/breakwa11/GoAIRatings)                                                          |                                       |                                                                                |        |
-|                                                                                                                 |                                       |                                                                                |        |
+| [Nippon games](https://homepages.cwi.nl/~aeb/go/games/games/index.html)
 
 
 Link to table magic: https://stevecat.net/table-magic/#
