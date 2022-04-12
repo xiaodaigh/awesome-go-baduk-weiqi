@@ -23,6 +23,6 @@ Good Go/Baduk/Weiqi resources
 | [resigning in sente](https://resigning-in-sente.github.io/joseki/44/2021/02/21/44-33-invasion-2-2-34-invasion/) | Nice Blog structure                   |                                                                                |        |
 | [AI ratings](https://github.com/breakwa11/GoAIRatings)                                                          |                                       |                                                                                |        |
 | [Nippon games](https://homepages.cwi.nl/~aeb/go/games/games/index.html)
-
+| [Taiwan go](http://taiwangorg.blogspot.com/) | Up to date Taiwan results
 
 Link to table magic: https://stevecat.net/table-magic/#
