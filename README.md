@@ -25,5 +25,6 @@ Good Go/Baduk/Weiqi resources
 | [Nippon games](https://homepages.cwi.nl/~aeb/go/games/games/index.html)
 | [Taiwan go](http://taiwangorg.blogspot.com/) | Up to date Taiwan results
 | [aweosome baduk](https://awesomebaduk.com/) | lessons and videos |
+| [Open study room](https://openstudyroom.org/) | Shawn Ray's website |
 
 Link to table magic: https://stevecat.net/table-magic/#
