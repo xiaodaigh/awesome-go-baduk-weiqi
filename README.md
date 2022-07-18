@@ -24,5 +24,6 @@ Good Go/Baduk/Weiqi resources
 | [AI ratings](https://github.com/breakwa11/GoAIRatings)                                                          |                                       |                                                                                |        |
 | [Nippon games](https://homepages.cwi.nl/~aeb/go/games/games/index.html)
 | [Taiwan go](http://taiwangorg.blogspot.com/) | Up to date Taiwan results
+| [aweosome baduk](https://awesomebaduk.com/) | lessons and videos |
 
 Link to table magic: https://stevecat.net/table-magic/#
