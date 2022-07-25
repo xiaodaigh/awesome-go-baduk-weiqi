@@ -27,5 +27,6 @@ Good Go/Baduk/Weiqi resources
 | [aweosome baduk](https://awesomebaduk.com/) | lessons and videos |
 | [Open study room](https://openstudyroom.org/) | Shawn Ray's website |
 | [Learn to play go](https://www.learn-go.net/) | 
+| [gostyle](http://gostyle.j2m.cz/) | analyses your playing style and mistakes | 
 
 Link to table magic: https://stevecat.net/table-magic/#
